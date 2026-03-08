@@ -1,7 +1,3 @@
-<h1 align="center">
-  DeepLearning.AI TensorFlow Professional Certificate
-</h1>
-
 <p align="center">
   <img src="resources\course.JPG" alt="DeepLearning.AI TensorFlow Developer Professional Certificate Banner" width="1000" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
 </p>
