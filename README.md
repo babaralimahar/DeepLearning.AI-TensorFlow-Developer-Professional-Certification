@@ -23,7 +23,7 @@
 ## Certificate of Completion
 
 <p align="center">
-  <img src="certificate.png" alt="DeepLearning.AI TensorFlow Developer Certificate" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="resources/certificate.png" alt="DeepLearning.AI TensorFlow Developer Certificate" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </p>
 
 ---
