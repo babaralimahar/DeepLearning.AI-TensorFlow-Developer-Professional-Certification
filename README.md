@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="course.jpg" alt="DeepLearning.AI TensorFlow Developer Professional Certificate Banner" width="1000" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+  <img src="resources/course.jpg" alt="DeepLearning.AI TensorFlow Developer Professional Certificate Banner" width="1000" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
 </p>
 
 <h1 align="center">
