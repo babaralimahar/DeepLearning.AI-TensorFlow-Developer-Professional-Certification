@@ -70,10 +70,7 @@ DeepLearning.AI-TensorFlow-Specialization
 ├── Course_4_Sequences_Time_Series_and_Prediction/
 ├── certificate.png
 └── README.md
-
-> **"AI is the new electricity."** – *Andrew Ng*
-
 ---
-
+> **"AI is the new electricity."** – *Andrew Ng*
 *Credit: All course materials, assignment specifications, and datasets are the intellectual property of DeepLearning.AI and Coursera.*
 
