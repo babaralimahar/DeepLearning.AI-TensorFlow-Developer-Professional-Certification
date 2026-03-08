@@ -25,7 +25,7 @@
 
 Welcome to my **TensorFlow Specialization** repository! 
 
-This repository contains all my code, notes, and mini-projects from successfully completing the **DeepLearning.AI TensorFlow Developer Professional Certificate** on Coursera, taught by Laurence Moroney and Andrew Ng. 
+This repository contains all my code, notes, and mini-projects from successfully completing the **DeepLearning.AI TensorFlow Developer Professional Certificate** on Coursera, taught by *Laurence Moroney* and *Andrew Ng.* 
 
 ---
 
