@@ -46,18 +46,12 @@ This repository is structured around the 4 core courses of the specialization, a
 
 ---
 
-## Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,numpy,pandas,matplotlib,git,vscode" alt="Tech Stack Icons"/>
-  </a>
-</p>
-
----
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="AI and Neural Networks GIF">
 </p>
+
+> **"AI is the new electricity."** – *Andrew Ng*
+*Credit: All course materials, assignment specifications, and datasets are the intellectual property of DeepLearning.AI and Coursera.*
 
 
 ## Repository Structure
@@ -71,6 +65,5 @@ DeepLearning.AI-TensorFlow-Specialization
 ├── certificate.png
 └── README.md
 ---
-> **"AI is the new electricity."** – *Andrew Ng*
-*Credit: All course materials, assignment specifications, and datasets are the intellectual property of DeepLearning.AI and Coursera.*
+
 
