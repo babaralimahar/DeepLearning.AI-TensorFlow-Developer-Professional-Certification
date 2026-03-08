@@ -62,8 +62,5 @@ DeepLearning.AI-TensorFlow-Specialization
 ├── Course_2_CNNs_in_TensorFlow/
 ├── Course_3_NLP_in_TensorFlow/
 ├── Course_4_Sequences_Time_Series_and_Prediction/
-├── certificate.png
+├── resources
 └── README.md
----
-
-
