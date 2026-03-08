@@ -31,8 +31,6 @@ Welcome to my **TensorFlow Specialization** repository!
 
 This repository contains all my code, notes, and mini-projects from successfully completing the **DeepLearning.AI TensorFlow Developer Professional Certificate** on Coursera, taught by Laurence Moroney and Andrew Ng. 
 
-Having previously completed a 100 Days of Deep Learning Challenge, this specialization was my next step in mastering applied AI and building production-ready models using TensorFlow and Keras.
-
 ---
 
 ## Specialization Roadmap
@@ -72,3 +70,10 @@ DeepLearning.AI-TensorFlow-Specialization
 ├── Course_4_Sequences_Time_Series_and_Prediction/
 ├── certificate.png
 └── README.md
+
+> **"AI is the new electricity."** – *Andrew Ng*
+
+---
+
+*Credit: All course materials, assignment specifications, and datasets are the intellectual property of DeepLearning.AI and Coursera.*
+
