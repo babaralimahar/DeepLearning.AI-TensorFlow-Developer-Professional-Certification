@@ -33,6 +33,10 @@ This repository contains all my code, notes, and mini-projects from successfully
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="AI and Neural Networks GIF">
+</p>
+
 ## Specialization Roadmap
 
 This repository is structured around the 4 core courses of the specialization, all of which are now completed!
@@ -45,10 +49,6 @@ This repository is structured around the 4 core courses of the specialization, a
 | **Course 4** | **Sequences, Time Series & Prediction** | Statistical Forecasting, RNNs for Time Series, Sunspot Prediction | Completed |
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="AI and Neural Networks GIF">
-</p>
 
 > **"AI is the new electricity."** – *Andrew Ng*
 *Credit: All course materials, assignment specifications, and datasets are the intellectual property of DeepLearning.AI and Coursera.*
