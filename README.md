@@ -56,6 +56,13 @@ This repository is structured around the 4 core courses of the specialization, a
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="AI and Neural Networks GIF">
+</p>
+
+<p align="center">
+  <b>Successfully Mastered TensorFlow, Computer Vision, NLP, and Time Series Forecasting!</b>
+</p>
 
 ## Repository Structure
 
